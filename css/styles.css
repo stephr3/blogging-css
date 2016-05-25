@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  max-width: 1000px;
+  margin: auto;
+  background-color: #BCD9E3;
+}
+
+h1 {
+  text-align: center;
+}
+
+.about {
+  background-color: #A4ADB0;
+  padding: 20px;
+  border-radius: 3%;
+}
+
+.about img {
+  border-radius: 50%;
+  max-width: 20vw;
+}
+
+.post {
+  background-color: #DFE4E6;
+  padding: 10px;
+  margin: 10px;
+}
+
+.date {
+  font-style: italic;
+}
