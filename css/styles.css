@@ -29,3 +29,8 @@ h1 {
 .date {
   font-style: italic;
 }
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
